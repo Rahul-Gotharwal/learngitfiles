@@ -1,0 +1,4 @@
+thisis the file for the pull request , we just created the new 
+blackmode branch in the three folder (main branch is created previouly) by the git init
+now we have to push this branch on the github repo , where all the code is presernt of 
+the master branch we just added the new branch and make a pull request to add our code 
